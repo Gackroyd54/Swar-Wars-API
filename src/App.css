@@ -1,0 +1,135 @@
+.App {
+  text-align: center;
+  font-family: fantasy;
+}
+.consulta-sw{
+  display: flex;
+  margin-bottom:0px;
+  margin:55px;
+  
+
+}
+img{
+  height:100px
+}
+.header{
+  background-image: url("");
+}
+.pesquisa-sw{
+  
+  
+  
+}
+.pesquisa-container{
+  display: flex;
+  margin: 10px 10px 10px 0px;
+  width:500px
+}
+.pesquisa-input{
+  
+  width:200px;
+  height:20px;
+  
+}
+.pesquisa-btn button{
+  margin-left:55px;
+  cursor: pointer;
+  height:25px;
+  border-radius: 5px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.species-name-list p{
+  color: rgb(211, 232, 17);
+}
+.nome-planetas-container p{
+  color: rgb(211, 232, 17);
+}
+.name-item:hover{
+  cursor: pointer;
+  color:rgb(6, 6, 208)
+}
+.listar-btn{
+  height:40px;
+  background-color: #24E8EE;
+  border-radius: 5px;
+}
+.pesquisa-input input{
+  background-color: aliceblue;
+  width: 300px;
+  height:18px;
+  
+  
+}
+.informacoes{
+  color:#24E8EE
+}
+.informacoes-planetas{
+  margin:0
+}
+.people-name{
+  color: rgb(211, 232, 17);}
+body{
+  background-color: rgb(0, 0, 0);
+
+}
+.planetas {
+  margin-left: 50px;
+  
+}
+.planetas button{
+  background-color : #24E8EE;
+  border-radius: 6px;
+  cursor:alias
+
+}
+.pesquisa{
+  margin-top: 25px;
+  width: auto;
+}
+.pesquisa input{
+  width:100px;
+}
+
+button:hover{
+  cursor:pointer;
+}
+.films-container{
+  
+  margin-left: 50px;
+}
+.naves-container{
+  margin-left: 50px;
+}
+.naves-name{
+  color: rgb(211, 232, 17); 
+}
+.nome-planeta{
+  color: rgb(211, 232, 17);  
+}
+.films-list-container p{
+  color: rgb(211, 232, 17); 
+}
+
+.people-container{
+  margin-left: 50px;
+}
+.veiculos-container{
+  margin-left: 50px;
+}
+.veiculos{
+  color: rgb(211, 232, 17); }
+.especies-container{
+  margin-left: 50px;
+}
+.especies{
+  color: rgb(211, 232, 17); 
+}
+.elemento{
+  color:rgb(211, 232, 17); 
+}
+.pesquisa-sw{
+  display: block;
+}
+.informacoes-planetas{
+  color:#24E8EE
+}
